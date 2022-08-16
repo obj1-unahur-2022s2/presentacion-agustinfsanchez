@@ -1,7 +1,7 @@
 ![Logo doberman](./assets/doberman.jpg)
 
-Bienvenidos a
-# Yo soy **Agustín Sanchez**, Estudiante de la carrera de Tecnicatura Universitaria en Programación y esta es Mi Presentación en Programación con Objetos I
+Bienvenidos a mi presentción
+# Yo soy **Agustín Sanchez**, Estudiante de la carrera de Tecnicatura Universitaria en Programación
 
 ```
 object programacionConObjetos { 
