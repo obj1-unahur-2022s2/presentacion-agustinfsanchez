@@ -1,24 +1,23 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo doberman](./assets/doberman.jpg)
 
 Bienvenidos a
-# Programación con objetos I
-
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+# Yo soy **Agustín Sanchez**, Estudiante de la carrera de Tecnicatura Universitaria en Programación y esta es Mi Presentación en Programación con Objetos I
 
 ```
 object programacionConObjetos { 
     method saludar() { 
-        return  "Bienvenidxs!" 
+        return  "Hola!" 
     }
 }
 ```
+
+En esta materia se aprenderá sobre la famosa POO_(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**, para ello usaremos como herramienta de aprendizaje el lenguaje de programación **Wollok**
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
 * Horario comisión **noche**: Martes 18hs.
 * Horario comisión **tarde**: Jueves 14hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
+* Este cuatrimestre los profesores son Gerardo González, Lucas Spigariol y Hernán Coniglio
 * Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo y Matías Müller
 
 ## Links importantes :monocle_face:
